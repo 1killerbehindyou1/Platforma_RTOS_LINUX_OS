@@ -1,0 +1,8 @@
+echo "# Platforma_RTOS_LINUX_OS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/1killerbehindyou1/Platforma_RTOS_LINUX_OS.git
+git push -u origin main
+                
